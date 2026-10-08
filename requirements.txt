@@ -1,0 +1,4 @@
+# clinical-trial-matcher-agent dependencies
+# All stdlib-only — no paid APIs required.
+# Optional: install for enhanced testing output
+pytest>=7.0.0
